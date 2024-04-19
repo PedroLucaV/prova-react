@@ -1,0 +1,16 @@
+.TextSide{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    color: white;
+    max-width: 500px;
+}
+
+.TextSide>h1{
+    font-size: 50px;
+}
+
+.TextSide>p{
+    font-weight: 400;
+    font-size: 20px;
+}

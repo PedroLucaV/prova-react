@@ -1,0 +1,11 @@
+.link{
+    color: hsl(246, 25%, 77%);
+    font-weight: 500;
+    display: flex;
+    font-size: 14px;
+}
+
+.link a{
+    text-decoration: none;
+    color: hsl(0, 100%, 74%);
+}
